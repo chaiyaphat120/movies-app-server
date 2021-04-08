@@ -1,0 +1,13 @@
+GET  http://localhost:4000/movies
+###
+
+POST  http://localhost:4000/movies
+Content-Type: application/json
+
+{
+    "title":"JameBon 007",
+    "years":"2010",
+    "rate":"A"
+
+}
+###
