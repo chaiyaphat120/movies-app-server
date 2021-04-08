@@ -1,13 +1,13 @@
-GET  http://localhost:4000/movies
+GET  https://movies-app-2021-node.herokuapp.com/movies
 ###
 
-POST  http://localhost:4000/movies
+POST  https://movies-app-2021-node.herokuapp.com/movies
 Content-Type: application/json
 
 {
-    "title":"JameBon 007",
+    "title":"JameBon 008",
     "years":"2010",
-    "rate":"A"
+    "rate":"MA"
 
 }
 ###
